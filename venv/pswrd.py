@@ -20,4 +20,3 @@ def gen():
     passw = (''.join(s[0:passlen])) # Adicionando elementos à senha final
 
 gen()
-
